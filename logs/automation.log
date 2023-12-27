@@ -1,0 +1,40 @@
+21:21:44.356 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+21:21:44.757 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+21:21:44.985 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+21:21:54.164 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:23:11.675 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:23:12.885 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:23:13.426 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:23:14.693 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:28:53.593 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:28:53.773 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:28:53.937 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:28:54.305 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:30:52.634 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:30:52.786 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:30:52.917 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:30:58.396 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:33:48.018 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:33:48.176 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:33:48.317 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:33:53.915 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:54:49.304 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:54:49.749 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:54:49.994 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:55:05.062 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+20:56:35.545 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+20:56:35.775 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+20:56:35.971 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+20:56:45.247 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+21:05:32.473 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+21:05:32.747 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+21:05:33.238 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+21:05:46.975 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+17:40:16.210 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+17:40:16.483 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+17:40:16.650 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+17:40:23.966 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace
+17:45:37.318 [main] INFO  testCases.TC_LoginPage_004 - Providing email
+17:45:37.494 [main] INFO  testCases.TC_LoginPage_004 - Provind password
+17:45:37.645 [main] INFO  testCases.TC_LoginPage_004 - Clicking on login button
+17:45:42.968 [main] INFO  testCases.TC_LoginPage_004 - searching a value on marketplace

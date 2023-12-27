@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18255" started-at="2023-12-03T17:45:26 EST" finished-at="2023-12-03T17:45:45 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18255" started-at="2023-12-03T17:45:26 EST" finished-at="2023-12-03T17:45:45 EST">
+      <class name="testCases.TC_LoginPage_004">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TC_LoginPage_004@1a15ff]" name="setup" is-config="true" duration-ms="10375" started-at="2023-12-03T17:45:26 EST" finished-at="2023-12-03T17:45:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testCases.TC_LoginPage_004@1a15ff]" name="testLogin" duration-ms="5732" started-at="2023-12-03T17:45:37 EST" finished-at="2023-12-03T17:45:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testMarketplacefeature()[pri:0, instance:testCases.TC_LoginPage_004@1a15ff]" name="testMarketplacefeature" duration-ms="1714" started-at="2023-12-03T17:45:42 EST" finished-at="2023-12-03T17:45:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMarketplacefeature -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_LoginPage_004@1a15ff]" name="tearDown" is-config="true" duration-ms="379" started-at="2023-12-03T17:45:44 EST" finished-at="2023-12-03T17:45:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_LoginPage_004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
